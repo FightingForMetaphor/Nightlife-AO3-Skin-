@@ -309,8 +309,8 @@ dt.child {
 
 #modal,
 span.replied {
-  background: #020116;
-  color: #ff0095;
+  background: #ffffff;
+  color: #ffffff;
   border: 2px solid #ff0095;
   box-shadow: 0px 0px 15px #ff0095;
 }
@@ -330,7 +330,7 @@ li.comment {
 }
 
 .thread .even {
-  background: #425e50;
+  background: #020116;
 }
 
 .unread {
